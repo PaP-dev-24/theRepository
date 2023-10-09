@@ -1,0 +1,2 @@
+We went with the MIT liscence because it was the shortest to copy paste 
+We copy-pasted a sample Code of Conduct from a seperate github repository since it was the first one we found.
