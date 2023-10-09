@@ -1,24 +1,57 @@
-At Google, we recognize and celebrate the creativity and collaboration of open source contributors and the diversity of skills, experiences, cultures, and opinions they bring to the projects and communities they participate in.
+# Contributor Covenant Code of Conduct
 
-Every one of Google's open source projects and communities are inclusive environments, based on treating all individuals respectfully, regardless of gender identity and expression, sexual orientation, disabilities, neurodiversity, physical appearance, body size, ethnicity, nationality, race, age, religion, or similar personal characteristic.
+## Our Pledge
 
-We value diverse opinions, but we value respectful behavior more.
+We as members, contributors, and leaders pledge to make participation in our
+community a harassment-free experience for everyone, regardless of age, body
+size, visible or invisible disability, ethnicity, sex characteristics, gender
+identity and expression, level of experience, education, socio-economic status,
+nationality, personal appearance, race, religion, or sexual identity
+and orientation.
 
-Respectful behavior includes:
+We pledge to act and interact in ways that contribute to an open, welcoming,
+diverse, inclusive, and healthy community.
 
-Being considerate, kind, constructive, and helpful.
-Not engaging in demeaning, discriminatory, harassing, hateful, sexualized, or physically threatening behavior, speech, and imagery.
-Not engaging in unwanted physical contact.
-Some Google open source projects may adopt an explicit project code of conduct, which may have additional detailed expectations for participants. Most of those projects will use our modified Contributor Covenant.
+## Our Standards
 
-Resolve peacefully
-We do not believe that all conflict is necessarily bad; healthy debate and disagreement often yields positive results. However, it is never okay to be disrespectful.
+Examples of behavior that contributes to a positive environment for our
+community include:
 
-If you see someone behaving disrespectfully, you are encouraged to address the behavior directly with those involved. Many issues can be resolved quickly and easily, and this gives people more control over the outcome of their dispute. If you are unable to resolve the matter for any reason, or if the behavior is threatening or harassing, report it. We are dedicated to providing an environment where participants feel welcome and safe.
+* Demonstrating empathy and kindness toward other people
+* Being respectful of differing opinions, viewpoints, and experiences
+* Giving and gracefully accepting constructive feedback
+* Accepting responsibility and apologizing to those affected by our mistakes,
+  and learning from the experience
+* Focusing on what is best not just for us as individuals, but for the
+  overall community
 
-Reporting problems
-Some Google open source projects may adopt a project-specific code of conduct. In those cases, a Google employee will be identified as the Project Steward, who will receive and handle reports of code of conduct violations. In the event that a project hasn’t identified a Project Steward, you can report problems by emailing opensource@google.com.
+Examples of unacceptable behavior include:
 
-We will investigate every complaint, but you may not receive a direct response. We will use our discretion in determining when and how to follow up on reported incidents, which may range from not taking action to permanent expulsion from the project and project-sponsored spaces. We will notify the accused of the report and provide them an opportunity to discuss it before any action is taken. The identity of the reporter will be omitted from the details of the report supplied to the accused. In potentially harmful situations, such as ongoing harassment or threats to anyone's safety, we may take action without notice.
+* The use of sexualized language or imagery, and sexual attention or
+  advances of any kind
+* Trolling, insulting or derogatory comments, and personal or political attacks
+* Public or private harassment
+* Publishing others' private information, such as a physical or email
+  address, without their explicit permission
+* Other conduct which could reasonably be considered inappropriate in a
+  professional setting
 
-This document was adapted from the IndieWeb Code of Conduct and can also be found at https://opensource.google/conduct/.
+## Enforcement Responsibilities
+
+Community leaders are responsible for clarifying and enforcing our standards of
+acceptable behavior and will take appropriate and fair corrective action in
+response to any behavior that they deem inappropriate, threatening, offensive,
+or harmful.
+
+Community leaders have the right and responsibility to remove, edit, or reject
+comments, commits, code, wiki edits, issues, and other contributions that are
+not aligned to this Code of Conduct, and will communicate reasons for moderation
+decisions when appropriate.
+
+## Scope
+
+This Code of Conduct applies within all community spaces, and also applies when
+an individual is officially representing the community in public spaces.
+Examples of representing our community include using an official e-mail address,
+posting via an official social media account, or acting as an appointed
+representative at an online or offline event.
