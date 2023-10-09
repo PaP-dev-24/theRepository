@@ -24,7 +24,7 @@ git clone https://github.com/Snarrow/theRepository.git
 2. Make any changes as long as they adhere to the Code of Conduct, we don't care
 
 ## Code of Conduct
-See CODE-OF-CONDUCT.md
+See CODE-OF-CONDUCT.md.
 In summary - follow Wheaton's Law
 
 ## License
